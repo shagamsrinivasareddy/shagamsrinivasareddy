@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shagamsrinivasareddy
-- 👀 I’m interested in AI & ML
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me shagamsrinivasareddy@gmail.com
 - 😄 Pronouns: He/Him
